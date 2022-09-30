@@ -16,13 +16,13 @@
 
 -------------------------
 
-### Любимовка
+### Любимовка  (WIP)
 Учебный проект. Лендинг для театрального фестиваля по мотивам реального сайта, также созданного студентами  
 Яндекс.Практикум. Велась работа в команде.    
 (Flex/grid, CSS-анимации, JS, БЭМ, git).  
 Репозиторий: [https://github.com/YuryAmonsky/Lubimovka/blob/main/README.md](https://github.com/YuryAmonsky/Lubimovka/blob/main/README.md)  
 Демо: [https://yuryamonsky.github.io/Lubimovka/](https://yuryamonsky.github.io/how-to-learn/)  
-![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/how-to-learn.gif?raw=true)
+![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/lyubimovka.jpg?raw=true)
 
 -------------------------
 https://github.com/YuryAmonsky/Lubimovka/blob/main/README.md
@@ -42,6 +42,15 @@ https://github.com/YuryAmonsky/Lubimovka/blob/main/README.md
 Репозиторий: [https://github.com/YuryAmonsky/russian-travel](https://github.com/YuryAmonsky/russian-travel)  
 Демо: [https://yuryamonsky.github.io/russian-travel/](https://yuryamonsky.github.io/russian-travel/)  
 ![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/russian-travel.jpg?raw=true)
+
+-------------------------
+
+### Акция издательства Просвещение
+Верстка по макету из заказа на фриланс-бирже.  
+(Flex/grid, адаптивная верстка, БЭМ, git).  
+Репозиторий: [https://github.com/YuryAmonsky/enlightenment](https://github.com/YuryAmonsky/enlightenment)  
+Демо: [https://yuryamonsky.github.io/enlightenment/](https://yuryamonsky.github.io/enlightenment/)  
+![preview]()
 
 -------------------------
 
