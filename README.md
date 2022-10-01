@@ -20,12 +20,11 @@
 Учебный проект. Лендинг для театрального фестиваля по мотивам реального сайта, также созданного студентами  
 Яндекс.Практикум. Велась работа в команде.    
 (Flex/grid, CSS-анимации, JS, БЭМ, git).  
-Репозиторий: [https://github.com/YuryAmonsky/Lubimovka/blob/main/README.md](https://github.com/YuryAmonsky/Lubimovka/blob/main/README.md)  
-Демо: [https://yuryamonsky.github.io/Lubimovka/](https://yuryamonsky.github.io/how-to-learn/)  
+Репозиторий: [https://github.com/YuryAmonsky/Lubimovka](https://github.com/YuryAmonsky/Lubimovka)  
+Демо: [https://yuryamonsky.github.io/Lubimovka/]([https://yuryamonsky.github.io/Lubimovka/)  
 ![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/lyubimovka.jpg?raw=true)
 
 -------------------------
-https://github.com/YuryAmonsky/Lubimovka/blob/main/README.md
 
 ### Научиться учиться
 Учебный проект о техниках обучения.  
