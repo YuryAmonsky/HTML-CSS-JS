@@ -21,7 +21,7 @@
 Яндекс.Практикум. Велась работа в команде.    
 (Flex/grid, CSS-анимации, JS, БЭМ, git).  
 Репозиторий: [https://github.com/YuryAmonsky/Lubimovka](https://github.com/YuryAmonsky/Lubimovka)  
-Демо: [https://yuryamonsky.github.io/Lubimovka/]([https://yuryamonsky.github.io/Lubimovka/)  
+Демо: [https://yuryamonsky.github.io/Lubimovka/](https://yuryamonsky.github.io/Lubimovka/)  
 ![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/lyubimovka.jpg?raw=true)
 
 -------------------------
