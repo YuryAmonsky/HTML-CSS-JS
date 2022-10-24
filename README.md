@@ -16,13 +16,33 @@
 
 -------------------------
 
-### Любимовка  (WIP)
-Учебный проект. Лендинг для театрального фестиваля по мотивам реального сайта, также созданного студентами  
-Яндекс.Практикум. Велась работа в команде.    
+### Любимовка  
+(WIP)  
+Учебный проект. Лендинг для театрального фестиваля по мотивам реального сайта, также созданного  
+студентами Яндекс.Практикум. Велась работа в команде.    
 (Flex/grid, CSS-анимации, JS, БЭМ, git).  
 Репозиторий: [https://github.com/YuryAmonsky/Lubimovka](https://github.com/YuryAmonsky/Lubimovka)  
 Демо: [https://yuryamonsky.github.io/Lubimovka/](https://yuryamonsky.github.io/Lubimovka/)  
 ![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/lyubimovka.jpg?raw=true)
+
+-------------------------
+
+### Акция издательства Просвещение  
+(WIP)  
+Верстка по макету из заказа на фриланс-бирже.  
+(Flex/grid, адаптивная верстка, БЭМ, git).  
+Репозиторий: [https://github.com/YuryAmonsky/enlightenment](https://github.com/YuryAmonsky/enlightenment)  
+Демо: [https://yuryamonsky.github.io/enlightenment/](https://yuryamonsky.github.io/enlightenment/)  
+![preview]()
+
+-------------------------
+
+### Gift-store
+Лендинг магазина подарков. Верстка по макету в Figma.
+(Flexbox, БЭМ, git).  
+Репозиторий: [https://github.com/YuryAmonsky/gift-store](https://github.com/YuryAmonsky/gift-store)  
+Демо: [https://yuryamonsky.github.io/gift-store/](https://yuryamonsky.github.io/gift-store/)  
+![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/giftstore.jpg?raw=true)
 
 -------------------------
 
@@ -41,22 +61,4 @@
 Репозиторий: [https://github.com/YuryAmonsky/russian-travel](https://github.com/YuryAmonsky/russian-travel)  
 Демо: [https://yuryamonsky.github.io/russian-travel/](https://yuryamonsky.github.io/russian-travel/)  
 ![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/russian-travel.jpg?raw=true)
-
--------------------------
-
-### Акция издательства Просвещение
-Верстка по макету из заказа на фриланс-бирже.  
-(Flex/grid, адаптивная верстка, БЭМ, git).  
-Репозиторий: [https://github.com/YuryAmonsky/enlightenment](https://github.com/YuryAmonsky/enlightenment)  
-Демо: [https://yuryamonsky.github.io/enlightenment/](https://yuryamonsky.github.io/enlightenment/)  
-![preview]()
-
--------------------------
-
-### Gift-store
-Лендинг магазина подарков. Верстка по макету в Figma.
-(Flexbox, БЭМ, git).  
-Репозиторий: [https://github.com/YuryAmonsky/gift-store](https://github.com/YuryAmonsky/gift-store)  
-Демо: [https://yuryamonsky.github.io/gift-store/](https://yuryamonsky.github.io/gift-store/)  
-![preview](https://github.com/YuryAmonsky/YuryAmonsky/blob/main/assets/giftstore.jpg?raw=true)
 
